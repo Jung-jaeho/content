@@ -78,7 +78,7 @@
 
 #### 7일차
 - Django의 View에 대해서 알아봅니다.
-- View (Youtube 12~13 29~47)
+- View (Youtube 12, 13, 29~47)
 	- Render
 	- Redirect
 	- Url Reverse
